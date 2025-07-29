@@ -1,0 +1,17 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "acrobat_onboarding"
+  },
+  "documents": [
+    { "filename": "acrobat_guide_1.pdf", "title": "Fillable Forms" },
+    { "filename": "acrobat_guide_2.pdf", "title": "Digital Signatures" },
+    { "filename": "acrobat_guide_3.pdf", "title": "Compliance Automation" }
+  ],
+  "persona": {
+    "role": "HR Professional"
+  },
+  "job_to_be_done": {
+    "task": "Create and manage fillable forms for onboarding and compliance"
+  }
+}

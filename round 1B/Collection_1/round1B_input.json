@@ -1,0 +1,16 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "france_local_experience"
+  },
+  "documents": [
+    { "filename": "france_guide.pdf", "title": "Travel Guide to France" },
+    { "filename": "local_foods.pdf", "title": "Regional Foods in France" }
+  ],
+  "persona": {
+    "role": "Travel Blogger"
+  },
+  "job_to_be_done": {
+    "task": "Design a content plan for exploring French culture and cuisine"
+  }
+}

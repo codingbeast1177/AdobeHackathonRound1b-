@@ -1,0 +1,17 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "recipe_collection"
+  },
+  "documents": [
+    { "filename": "veggie_dinner_1.pdf", "title": "Starters and Appetizers" },
+    { "filename": "veggie_dinner_2.pdf", "title": "Main Course Dishes" },
+    { "filename": "veggie_dinner_3.pdf", "title": "Buffet Serving Setup" }
+  ],
+  "persona": {
+    "role": "Food Contractor"
+  },
+  "job_to_be_done": {
+    "task": "Prepare vegetarian buffet-style dinner menu for corporate gathering"
+  }
+}

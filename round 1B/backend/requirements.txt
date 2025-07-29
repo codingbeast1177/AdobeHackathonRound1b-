@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+PyMuPDF==1.22.3
